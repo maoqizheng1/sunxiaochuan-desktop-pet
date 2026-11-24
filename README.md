@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ## 快速开始
 
 ```bash
-git clone <this-repo>
-cd <this-repo>
+git clone https://github.com/maoqizheng1/sunxiaochuan-desktop-pet.git
+cd sunxiaochuan-desktop-pet
 pip install -r requirements.txt
 ```
 
