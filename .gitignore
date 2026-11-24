@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.pyo
+pet.pid
+pet_config.json
+pet_debug.log
+pet_error.log
+python_path.txt
+_tmp/
